@@ -19,7 +19,7 @@ Dotor Booking App UI made with Flutter, Hosted on Codemagic. Don't forget to sta
 
 ### Created & Maintained By
 
-[Effren Ouedraogo](https://github.com/eff4real)(https://twitter.com/TheRealEffren)))
+[Effren Ouedraogo] (https://github.com/eff4real) (https://twitter.com/TheRealEffren)))
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
@@ -31,7 +31,7 @@ Dotor Booking App UI made with Flutter, Hosted on Codemagic. Don't forget to sta
 
 ### License
 
-    Copyright 2020 Sanskar Tiwari
+    Copyright 2023 Effren Ouedraogo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
